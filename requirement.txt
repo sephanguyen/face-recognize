@@ -1,0 +1,5 @@
+PyQt5
+imutils
+mxnet
+mtcnn
+tensorflow
